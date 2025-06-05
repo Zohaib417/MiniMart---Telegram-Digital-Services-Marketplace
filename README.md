@@ -1,7 +1,8 @@
 # MiniMart-Bot
 🛒 Want to sell your product or service? Use MiniMart Bot to create your own Telegram shop in 60 seconds! 👉 https://t.me/MiniMart01bot
 
-![Uploading aa.png…]()
+![aa](https://github.com/user-attachments/assets/9a3e0e22-e732-4ba4-922c-f4fdffedb302)
+
 
 
 🛒 How MiniMart Bot Works
