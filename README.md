@@ -1,11 +1,11 @@
-# MiniMart-Bot
+# MiniMart - Telegram Digital Services Marketplace
 🛒 Want to sell your product or service? Use MiniMart - Telegram Digital Services Marketplace to create your own Telegram shop in 60 seconds! 👉 https://t.me/MiniMart01bot
 
 ![aa](https://github.com/user-attachments/assets/9a3e0e22-e732-4ba4-922c-f4fdffedb302)
 
 
 
-🛒 How MiniMart Bot Works
+🛒 How MiniMart - Telegram Digital Services Marketplace Works
 
 📋 Browse Products
 Explore all available categories where shops are listed. Each category contains shops showcasing:
@@ -37,4 +37,4 @@ All payments are processed automatically and verified instantly using our Crypto
 🆘 Support
 Need help? Contact our support team anytime through the Support section in the menu.
 
-✨ MiniMart Bot makes selling and buying simple, secure, and efficient!
+✨ MiniMart - Telegram Digital Services Marketplace makes selling and buying simple, secure, and efficient!
